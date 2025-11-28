@@ -17,3 +17,8 @@ Prerequisites:
 An active GitHub Copilot individual subscription or membership in an organization with a Copilot subscription.
 A GitHub account.
 Note: The GitHub Copilot plugin for JetBrains IDEs is regularly updated. Ensure you have the latest version for optimal performance and access to the newest features. You can check for updates in the IntelliJ IDEA Plugins section.
+
+
+Activate the GitHub Copilot Plugin:
+Click on the GitHub Copilot icon in the IDE toolbar bottom right corner.
+Follow the prompts to authenticate and activate the plugin using your GitHub account. by entering the code provided during the login process.
