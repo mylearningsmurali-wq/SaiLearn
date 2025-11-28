@@ -23,9 +23,6 @@ Copy the token and keep it safe for future use
 
 <GitHub PAT>
 
-
-
-
 IntelliJ:
 
 File -> New -> Project
